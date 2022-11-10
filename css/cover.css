@@ -1,0 +1,36 @@
+body {
+    background-color: beige;
+}
+
+.outer_box .content_main {
+    margin: 20px auto;
+    text-align: center;
+}
+
+table {
+    font-family: "宋体";
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+
+a {
+    font-family: "宋体";
+    text-decoration: none;
+    font-size: 30px;
+    color: #1ed7d7;
+    font-weight: bold;
+}
+
+.outer_box .content_main .info {
+    margin-top: 50px;
+}
+
+input {
+    font-size: 22px;
+    font-family: "宋体";
+    border: none;
+    outline: medium;
+    font-weight: bold;
+    background-color: #f5f5dc;
+}
